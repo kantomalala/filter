@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Kanto\\OneDrive\\Documents\\apache-tomcat-10.1.28\\lib\\servlet-api.jar",
+        "c:\\Users\\Kanto\\OneDrive\\Documents\\apache-tomcat-10.1.28\\lib\\jakarta.servlet-api-6.0.0.jar"
+    ]
+}
